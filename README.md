@@ -3,14 +3,14 @@
   <table>
     <thead>
       <tr>
-        <th align="left">Roze Thorns</th>
+        <th align="left">Nihon</th>
         <th align="right">│⠀⠀🗕⠀⠀│⠀⠀🗗⠀⠀│⠀⠀🗙⠀⠀│</th>
       </tr>
     </thead>
     <tbody>
       <tr align="center">
         <td colspan="2">
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Electrolize&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Developing+the+future" alt="Typing SVG" /></a>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Electrolize&pause=1000&color=FCF403&center=true&vCenter=true&multiline=true&width=435&lines=Powered+By+Femboys" alt="Typing SVG" /></a>
           <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
 <img width="10"/>
@@ -65,23 +65,23 @@
 
 ## 📊 GitHub Activity
 
-<img src="https://statsrepo.vercel.app/api?username=RozeThorns&show_icons=true&theme=transparent" height="165"/>
-<img src="https://statsrepo.vercel.app/api/top-langs/?username=RozeThorns&layout=compact&theme=transparent" height="165"/>
+<img src="https://statsrepo.vercel.app/api?username=NihonFemStyle&show_icons=true&theme=transparent" height="165"/>
+<img src="https://statsrepo.vercel.app/api/top-langs/?username=NihonFemStyle&layout=compact&theme=transparent" height="165"/>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RozeThorns&theme=github-compact&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NihonFemStyle&theme=github-compact&hide_border=true" width="95%"/>
 
 ---
 
 ## 📬 Contact
 
-📧 **roze@arch-linux.pro**
+📧 **nihon@femboy.style**
 
 ---
 
-<img src="https://raw.githubusercontent.com/RozeThorns/RozeThorns/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/NihonFemStyle/NihonFemStyle/output/snake.svg"/>
 
-<img src="https://count.getloli.com/@RozeThorns?name=RozeThorns&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+<img src="https://count.getloli.com/@NihonFemStyle?name=NihonFemStyle&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 
 </div>
