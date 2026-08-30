@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="https://files.nemesis.surf/raw/8xISb5.png" width="100%" />
   <table>
     <thead>
       <tr>
