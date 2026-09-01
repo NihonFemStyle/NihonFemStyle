@@ -70,7 +70,7 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NihonFemStyle&theme=github-compact&hide_border=true" width="95%"/>
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1016895892055396484?animated=false&animatedDecoration=true&showDisplayName=true&animationDuration=0s&forceGradient=false&imgStyle=circle&showBanner=true&theme=dark&idleMessage=I%20went%20to%20bed&waveColor=696b2a&bg=1f2010&clanbg=e9ef44&waveSpotifyColor=afb91d&hideNameplate=false)](https://discord.com/users/1016895892055396484)
 
 ---
 
