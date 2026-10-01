@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./7C496DA4-1C6E-43AF-89B4-BF7ADAE34FF1.png" width="100%" />
+  <img src="./github.png" width="100%" />
   <table>
     <thead>
       <tr>
