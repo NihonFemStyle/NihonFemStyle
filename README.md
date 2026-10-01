@@ -10,7 +10,7 @@
     <tbody>
       <tr align="center">
         <td colspan="2">
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Electrolize&pause=1000&color=00ffff&center=true&vCenter=true&multiline=true&width=435&lines=Powered+By+TransFems" alt="Typing SVG" /></a>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Electrolize&pause=1000&color=00ffff&center=true&vCenter=true&multiline=true&width=435&lines=Powered+By+Cute+Lesbians" alt="Typing SVG" /></a>
           <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
 <img width="10"/>
