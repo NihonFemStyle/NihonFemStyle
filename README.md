@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./D4923EA8-F9E8-4DA8-A6AB-FF44E6D27ADB.png" width="100%" />
   <table>
     <thead>
       <tr>
