@@ -80,6 +80,10 @@
 
 ---
 
+<a href="https://trigon.technology">
+  <img src="https://trigon.technology/assets/ui/portfolio-button.png" alt="View My Portfolio" width="440">
+</a>
+
 <img src="https://raw.githubusercontent.com/NihonFemStyle/NihonFemStyle/output/snake.svg"/>
 
 <img src="https://count.getloli.com/@NihonFemStyle?name=NihonFemStyle&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
